@@ -1,0 +1,26 @@
+Package: ctrlR
+Type: Package
+Title: Functions used in my PhD thesis
+Version: 0.1
+Authors: Antonio Profico
+Maintainer: Antonio Profico <antonio.profico@uniroma1.it>
+Description: Functons, examples and tools in Geometric Morphometrics
+Depends:
+    R (>= 3.1),
+    Morpho (>= 2.2),
+    bezier (>= 1.0),
+    Rvcg (>= 0.9),
+    compositions (>= 1.40-1),
+    rgl (>= 0.94.114),
+    foreach (>= 1.4.2),
+    abind (>= 1.4-0),
+    R.utils (>= 2.0.0),
+    jpeg (>= 0.1-8),
+    graphics (>= 3.1.2),
+    alphahull (>= 1.0),
+    lattice (>= 0.20-29),
+    latticeExtra (>= 0.6-26),
+    gplots (>= 2.14.2),
+    doParallel (>= 1.0.8)
+License: GPL-2
+LazyLoad: yes

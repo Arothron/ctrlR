@@ -1,0 +1,4 @@
+smoothing.demo      Demo for smoothing section
+landmark.type.demo      Demo for landmark type
+outline.fourier.demo     Demo for outline using a Fourier elliptic approach
+digital.aligning.demo     Demo to reconstruct a model through digital aligning 
