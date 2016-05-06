@@ -10,7 +10,6 @@ Depends:
     Morpho (>= 2.2),
     bezier (>= 1.0),
     Rvcg (>= 0.9),
-    compositions (>= 1.40-1),
     rgl (>= 0.94.114),
     foreach (>= 1.4.2),
     abind (>= 1.4-0),
